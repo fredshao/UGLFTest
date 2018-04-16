@@ -1,0 +1,14 @@
+*.log
+/Library
+/Temp
+/UnityPackageManager
+/.vs
+*.csproj
+*.sln
+/BundleExported
+/Assets/UnityEngine.AssetGraph/Cache/
+/Assets/Tmp/
+/Assets/Tmp.meta
+/TmpBundles/
+/Assets/UnityEngine.AssetBundleGraph/Cache/
+/Assets/UnityEngine.AssetBundleGraph/Cache/AssetBundles
